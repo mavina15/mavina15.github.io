@@ -1,0 +1,20 @@
+========== CARD ==========
+.card__name
+Mel Avina
+
+.card__profession
+Frontend Developer
+
+.info__name
+Jules Moore Mynton
+
+.info__profession
+Undergrad in Frontend Developer
+
+.info__location
+Los Angeles - California
+
+.info__social
+https://www.linkedin.com/
+https://dribbble.com/
+https://github.com/
